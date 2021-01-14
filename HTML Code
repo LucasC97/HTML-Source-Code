@@ -1,0 +1,644 @@
+<html><head>
+<script type="text/javascript">
+/*HTML Business for Java, 6.0*/
+ur_system = {doc : window.document , mimepath :"/com.sap.portal.design.urdesigndata/themes/portal/sap_tradeshow_plus/common/", stylepath : "/com.sap.portal.design.urdesigndata/themes/portal/sap_tradeshow_plus/", is508 : false, domainrelaxing : "MINIMAL"};
+var popup_emptydoc = "/htmlb/jslib/emptyhover.html";</script>
+<link rel="stylesheet" href="/com.sap.portal.theming.webdav.themeswebdavlistener/Portal/prtl_std/Pne_Up75_v2/nn7.css?v=7.50.6.1533307403000" />
+<link rel="stylesheet" href="/com.sap.portal.theming.webdav.themeswebdavlistener/Portal/glbl/Pne_Up75_v2/nn7.css?v=7.50.6.1533307402000" />
+
+<!-- EPCF: BOB Core -->
+<meta http-equiv="content-script-type" content="text/javascript"/>
+<script type="text/javascript" src="/com.sap.portal.epcf.loader/script/optimize/js13_epcf.js?9c7ce93c7cd3bcfe11447561132c0c03"></script>
+<script type="text/javascript">
+<!--
+EPCM.relaxDocumentDomain();
+EPCM.init( {
+Level:1,
+DynamicTop:false, // [service=true nestedWinOnAlias=false]
+UAType:21, // [Mozilla]
+UAVersion:5.0,
+UAPlatform:1, // [Win]
+UIPMode:"2", // [Default=2, User=0, Personalize=true]
+UIPModeOptions:"",
+UIPWinFeatures:"",
+UIPPortalPath:"https://www.petronect.com.br:443/irj/portal/anonymous/login",
+UIPPopupComp:"https://www.petronect.com.br:443/irj/servlet/prt/portal/prtroot/com.sap.portal.epcf.admin.WorkProtectPopup",
+UIPPopupCompSize:"dialogWidth:450px; dialogHeight:200px; status:no",
+UIPPopupMsgNN:"A\x20p\xe1gina\x20atual\x20cont\xe9m\x20dados\x20n\xe3o\x20gravados.\r\nContinuar\x20a\x20navega\xe7\xe3o\x20e\x20abrir\x20uma\x20janela\x20nova\x3f",
+UIPPopupMsgND:"A\x20p\xe1gina\x20atual\x20cont\xe9m\x20dados\x20n\xe3o\x20gravados.\r\nRejeitar\x20as\x20modifica\xe7\xf5es\x20e\x20abrir\x20o\x20conte\xfado\x20na\x20mesma\x20janela\x3f",
+DBGException:false,
+nervousFingerTimeout:"0",
+DBCookie:false
+} );
+EPCM.DSM.init( {
+TerminatorURL:"/irj/servlet/prt/portal/prtroot/com.sap.portal.dsm.Terminator",
+WinEmptyUrl:"/com.sap.portal.dsm/images/empty.gif",
+NavAcrossSubFramesUrl:"disabled",
+omitTerminationPopup:false,
+omitLogoffPopup:false,
+ForcedUserDebug:false,
+KeepAliveActive:false,
+KeepAliveDelta:840,
+dsmMethodGetKey:"",
+KeepAliveStopAfter:36000
+} );
+function SAPWP_receiveSessInfo( sessInfo, frameRef ){
+  EPCM.DSM.processSession( sessInfo, frameRef );
+}
+//-->
+</script>
+<!-- EPCF: EOB Core -->
+<title>Petronect</title><meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8"><script SRC="/com.sap.portal.pagebuilder/scripts/pagesupport.js?rid=b8d3ed606605c12af160a96113384de5" ></script><link  REL=STYLESHEET  HREF="/com.sap.portal.theming.webdav.themeswebdavlistener/Portal/AFP/Pne_Up75_v2/nn7.css?rid=c57c1f5a03e3262c06f8c9611360660c&v=7.50.6.1533307399000"  TYPE="text/css" ></head><body class="prtlBody urFontBaseFam urScrl">
+<!-- EPCF: Component com.sap.portal.navigation.portallauncher.anonymous, mnmkjgjmcjckpmckgjmdihhhabplfala -->
+
+<!-- EPCF: Component com.sap.portal.pagebuilder.pageBuilder, cokfdllbemhcgkmolbkapdhhabplfalb -->
+<script>var helpCenterIviewID = "pcd:portal_content/every_user/general/com.sap.portal.helpCenteriView"; </script>
+
+
+
+
+
+
+
+
+
+
+	
+
+<span id="divChangeContent" style="position:absolute;height:0;width:0;top:-5000;left:-5000" >
+	<form action="" method="post" id="frmChangeContent" name="frmChangeContent">
+		<input type="hidden" id="NavigationTarget_navForms" name="NavigationTarget" />
+		<input type="hidden" id="RelativeNavBase" name="RelativeNavBase" />
+	</form>
+	<form action="/irj/servlet/prt/portal/prtroot/com.sap.portal.navigation.objbased.ObjBasedNavigation" id="obnNavForm" method="post" target="obnNavIFrame" >
+		<input type="hidden" name="systemAlias" />
+		<input type="hidden" name="businessObjName" />
+		<input type="hidden" name="objValue" />
+		<input type="hidden" name="operation" />
+		<input type="hidden" name="usePost" value="false" />
+		<input type="hidden" name="source" />
+		<input type="hidden" name="resolvingMode" value="Default" />
+	</form>
+</span>
+<iframe src='/com.sap.portal.pagebuilder/html/EmptyDocument.html' style="position:absolute;height:0;visibility:hidden" name="obnNavIFrame" id="obnNavIFrame" title='Quadro de wrapper'></iframe>
+
+<!-- EPCF: Component com.sap.portal.navigation.afp.layout.AFPFrameworkLayout, pfidldgnokgbaomidhcgfbhhabplfcbh -->
+
+
+
+
+
+
+
+
+
+
+
+<style type="text/css">
+    body.specialNarowValue{
+        overflow: auto !important;
+    }
+</style>
+
+
+
+
+
+
+
+
+                
+
+<table class="OuterFrame" id="tblOuterFrame" style="height:100%;width:100%;" cellpadding="0" cellspacing="0" border="0">
+    <tr>
+        <td class="Frame00" nowrap="nowrap"><div class="placeHolder"></div></td>
+        <td class="Frame10" width="100%" nowrap="nowrap"><div class="placeHolder"></div></td>
+        <td class="Frame20" nowrap="nowrap"><div class="placeHolder"></div></td>
+    </tr>
+
+    <tr>
+        <td class="Frame01" nowrap="nowrap" id="frame01TD"><div class="placeHolder"/></td>
+        
+        <td valign="top" nowrap="nowrap" id="frame11TD">
+		
+            <table style="height:100%;width:100%;" cellpadding="0" cellspacing="0" border="0">
+                <tr id="mastheadTR">
+                    <td nowrap="nowrap">
+                        <div style="width:100%;">
+                                
+                              
+                              <table style="width:100%" cellspacing="0" cellpadding="0" class="prtlPageConL"><tr><td>
+<!-- EPCF: Component br.com.sap.portal.navigation.afp.mastheadPne75.AFPMasthead, lojfepopnijjaobmpijibnhhabplfalf -->
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+<!--INÍCIO ALTERAÇÃO - LOGIN POR CPF - CHECK DE ATUALIZAÇÃO DE DADOS CADASTRAIS-->
+
+<!--// INICIO ALTERAÇÃO - LOGIN POR CPF - CHECK DE ATUALIZAÇÃO DE DADOS CADASTRAIS-->
+
+<script type="text/javascript">
+function callDataUpdateValidation() { 
+	var isFramed = false; 
+	if(top.frames){ 
+		if(top.frames.length){ 
+			for(var i=0; i<top.frames.length; i++){ 
+				isFramed=true; 
+			} 
+		} 
+	} 
+	if(!isFramed){ 
+		top.location='/irj/servlet/prt/portal/prtroot/pcd!3aportal_content!2fPetronect_SRM!2fConteudoPrivado!2fRoles!2fAtualizaDados!2fAtualizaDados'; 
+	}else{ 
+		if(location.protocol=='http:'){ 
+			var porta=''; 
+			if(location.port){ 
+				if(location.port!=null){ 
+					if(location.port!='80'){ 
+						var intPorta=parseInt(location.port,10); 
+						var intPortaHTTPS=intPorta+1; 
+						porta=':' + intPortaHTTPS ; 
+					} 
+				} 
+			} 
+		var action='https://' + location.hostname + porta + '/irj/servlet/prt/portal/prtroot/pcd!3aportal_content!2fPetronect_SRM!2fConteudoPrivado!2fRoles!2fAtualizaDados!2fAtualizaDados';
+		window.open(action, "_self"); 
+		}
+		else if(location.protocol=='https:'){
+			var porta=''; 
+			if(location.port){ 
+				if(location.port!=null){ 
+					if(location.port!='80'){ 
+						var intPorta=parseInt(location.port,10); 
+						var intPortaHTTPS=intPorta+1; 
+						porta=':' + intPortaHTTPS ; 
+					} 
+				} 
+			}
+			var action='https://' + location.hostname + porta + '/irj/servlet/prt/portal/prtroot/pcd!3aportal_content!2fPetronect_SRM!2fConteudoPrivado!2fRoles!2fAtualizaDados!2fAtualizaDados';
+			window.open(action, "_self"); 
+		} 
+	}
+}	
+
+// INÍCIO ALTERACAO - PTS1200863 - Falha nos termos/CPF obrigatórios
+function redirecionaLoginCheck() { 
+
+	var isFramed = false; 
+	if(top.frames){ 
+		if(top.frames.length){ 
+			for(var i=0; i<top.frames.length; i++){ 
+				isFramed=true; 
+			} 
+		} 
+	} 
+	if(!isFramed){ 
+		top.location='/sap/bc/yplpf/logincheck'; 
+
+	}else{ 
+		if(location.protocol=='http:'){ 
+			var porta=''; 
+			if(location.port){ 
+				if(location.port!=null){ 
+					if(location.port!='80'){ 
+						var intPorta=parseInt(location.port,10); 
+						var intPortaHTTPS=intPorta+1; 
+						porta=':' + intPortaHTTPS ; 
+					} 
+				} 
+			} 
+
+		var action='https://' + location.hostname + porta + '/sap/bc/yplpf/logincheck';
+
+		window.open(action, "_self"); 
+		}
+		else if(location.protocol=='https:'){
+			var porta=''; 
+			if(location.port){ 
+				if(location.port!=null){ 
+					if(location.port!='80'){ 
+						var intPorta=parseInt(location.port,10); 
+						var intPortaHTTPS=intPorta+1; 
+						porta=':' + intPortaHTTPS ; 
+					} 
+				} 
+			}
+
+			var action='https://' + location.hostname + porta + '/sap/bc/yplpf/logincheck';
+
+			window.open(action, "_self"); 
+		} 
+	}
+}
+// FIM ALTERACAO - PTS1200863 - Falha nos termos/CPF obrigatórios
+
+/* Início alteração - Link Assistente */
+function openAssistWindow(){
+	window.open("https://www.petronect.com.br/sap(bD1wdCZjPTIwMA==)/bc/bsp/sap/ypcai_bot/chat.htm", "", "width=405,height=635,resizable=yes");
+}
+/* Fim alteração - Link Assistente */
+
+/* Início alteração - OS 200098 SPRINT 4 */
+/* function openPopupAssistNews(){ */
+    /* window.open("https://srm.dev.petronect.com.br/sap(bD1wdCZjPTIyMA==)/bc/bsp/sap/ypcai_news/main.htm", "", "width=960,height=650"); */
+/* } */
+/* Fim alteração - OS 200098 SPRINT 4 */
+
+/* Início alteração - Ricardo Ferreira - OS 815 - PORTAL-134.ES01 Criação de Velocímetro */
+function openSpeedWindow(){
+	var tab = document.getElementsByClassName("TabWorkCenter TabDown")[0].innerText.trim();
+	tab = encodeURI(tab);
+	var subTab = document.getElementsByClassName("Tab SubTabDown")[0].title.trim();
+	subTab = encodeURI(subTab);
+	window.open("https://www.petronect.com.br/sap(bD1wdCZjPTIwMA==)/bc/bsp/sap/ypvelo_monit/main.htm?var1=" + tab + "&var2=" + subTab, "", "width=560,height=760,resizable=yes"); 
+}
+/* Fim alteração - Ricardo Ferreira - OS 815 - PORTAL-134.ES01 Criação de Velocímetro */
+</script>
+<!--  FIM ALTERAÇÃO - LOGIN POR CPF - CHECK DE ATUALIZAÇÃO DE DADOS CADASTRAIS-->
+
+<!--  Upgrade Alteração estilo -->
+<style>
+.welcome_text {top: 0px !important;}
+</style>
+<!-- FIM Alteração estilo -->
+
+<!-- BEGIN Masthead -->
+
+
+<div>	
+<!-- Chamando JAVA -->
+
+<!-- Fim inclusão JAVA -->
+
+
+		<table id="mastheadEntry" style="width:100%" cellpadding="0" cellspacing="0">
+			<tr>
+			
+				<td class="logobar_container" id ="logobar_container">
+					<div id ="logo" class="logoImg"></div>
+				</td>
+						
+				<td class="space_container" id="space_container">
+					<img src="/com.sap.portal.navigation.afp.masthead/images/blank.gif" alt="" id ="search_blank_gif" style= "height:28px" />
+				</td>
+				
+				
+				
+				
+			  
+			  
+			  
+			   
+			   	
+	           
+			   
+			   	  		
+			  		
+			  		<td nowrap="nowrap" class ="hyperlink_container" id="logout_container">
+			  		
+			  		<!-- INÍCIO ALTERAÇÃO - Avana 08.08.2019 - OS 200098 Inclusão de link para assistente -->
+			  		
+			  		<!-- FIM ALTERAÇÃO - Avana 08.08.2019 - OS 200098 Inclusão de link para assistente --> 
+			  		
+			  		<!-- INÍCIO ALTERAÇÃO - Avana 18.11.2019 - OS 200098 SPRINT 4 --> 
+			  		
+						<!-- <script>openPopupAssistNews();</script> -->
+			  		
+			  		<!-- FIM ALTERAÇÃO - Avana 18.11.2019 - OS 200098 SPRINT 4 --> 
+			  		
+					<!-- INÍCIO ALTERAÇÃO - Ricardo Ferreira 08.09.2020 - OS 815 - PORTAL-134.ES01 Criação de Velocímetro -->		
+					
+			  			<a href="#" id="buttonspeed" onclick="openSpeedWindow()" style="position: relative; text-decoration: none; top: 10%; padding-right: 1%;">
+					  		<img src="https://www.petronect.com.br/irj/go/km/docs/pccshrcontent/Site%20Content%20(Legacy)/Portal2018/Teste_Velocidade/VELOCGradiente.png"
+					  			style="width: 38px; height: 38px" 
+					  			title="Velocímetro" 
+					  			alt="Velocímetro">
+				  		</a>
+					
+				  	<!-- FIM ALTERAÇÃO - Ricardo Ferreira 08.09.2020 - OS 815 - PORTAL-134.ES01 Criação de Velocímetro -->
+			  		
+			  		<!-- INICIO ALTERACAO - Upgrade 7.5 - INCLUSAO DE Data no Masthead AFP -->
+					
+				<!--FIM ALTERAÇÃ0-->
+
+						<!-- Alteração de lugar - Nome do Usuário + inclusão DATA - Upgrade 7.5 -->
+						<span>	
+						<span id="welcomeText" class="welcome_text">Bem-vindo: <span class="welcome_name">Lucas</span> <span class="welcome_name">Cruz</span></span>
+						</span>	
+						<span class="hyperlink_divider" style="display: inline !important; float:none !important;"><img src="/com.sap.portal.navigation.afp.masthead/images/blank.gif" alt="" id ="search_blank_gif"/>
+						</span>
+						<span id="" class="logoff_container" style="display: inline !important;">		
+						Quinta-feira, 14 de Janeiro de 2021		 		
+					    </span>	
+
+					    <!-- Fim Troca de Lugar do nome do usuário -->
+					    
+			  		
+
+			  		
+			  		<!-- Inserindo novos links - Upgrade 75 -->
+			   	  	
+									
+			  			
+					    
+					   <span class="hyperlink_divider" style="display: inline !important; float:none !important;"><img src="/com.sap.portal.navigation.afp.masthead/images/blank.gif" alt="" id ="search_blank_gif"/>
+						</span>
+						<span id="" class="logoff_container" style="display: inline !important;">	
+							<a class="nova_hyperlink nova_hyperlinkNormal" style="text-decoration: none;" href="#" onclick="return EPCM.doNavigate('ROLES://portal_content/br.com.petronect.Petronect/ConteudoPrivado/roles/z_Revisao_Menus_Fornecedores/z_rl_Forn_APetronect/z_ws_Forn_SistemaPetronect/APetronect/z_iv_Forn_MinhaConta')">
+							Minha Conta</a>
+						</span>						
+						<span class="hyperlink_divider" style="display: inline !important; float:none !important;"><img src="/com.sap.portal.navigation.afp.masthead/images/blank.gif" alt="" id ="search_blank_gif"/>
+						</span>
+						<span id="" class="logoff_container" style="display: inline !important;">	
+							<a class="nova_hyperlink nova_hyperlinkNormal" style="text-decoration: none;" href="#" onclick="return EPCM.doNavigate('ROLES://portal_content/br.com.petronect.Petronect/ConteudoPrivado/roles/z_Revisao_Menus_Fornecedores/z_rl_Forn_APetronect/z_ws_Forn_SistemaPetronect/APetronect/z_iv_Forn_Treinamentos')">
+							Treinamentos</a>
+						</span>
+						<span class="hyperlink_divider" style="display: inline !important; float:none !important;"><img src="/com.sap.portal.navigation.afp.masthead/images/blank.gif" alt="" id ="search_blank_gif"/>
+						</span>
+						<span id="" class="logoff_container" style="display: inline !important;">	
+							<a class="nova_hyperlink nova_hyperlinkNormal" style="text-decoration: none;" href="#" onclick="return EPCM.doNavigate('ROLES://portal_content/br.com.petronect.Petronect/ConteudoPrivado/roles/z_Revisao_Menus_Fornecedores/z_rl_Forn_APetronect/z_ws_Forn_SistemaPetronect/APetronect/z_iv_Forn_FaleConosco')">
+							Fale Conosco</a>
+						</span>
+						<span class="hyperlink_divider" style="display: inline !important; float:none !important;"><img src="/com.sap.portal.navigation.afp.masthead/images/blank.gif" alt="" id ="search_blank_gif"/>
+						</span>
+						<span id="" class="logoff_container" style="display: inline !important;">	
+							<a class="nova_hyperlink nova_hyperlinkNormal" style="text-decoration: none;" href="#" onclick="return EPCM.doNavigate('ROLES://portal_content/br.com.petronect.Petronect/ConteudoPrivado/roles/z_Revisao_Menus_Fornecedores/z_rl_Forn_APetronect/z_ws_Forn_SistemaPetronect/APetronect/z_id_forn_termos')">
+							Termos</a>
+						</span>
+						<span class="hyperlink_divider" style="display: inline !important; float:none !important;"><img src="/com.sap.portal.navigation.afp.masthead/images/blank.gif" alt="" id ="search_blank_gif"/>
+						</span>
+						<span id="" class="logoff_container" style="display: inline !important;">	
+							<a class="nova_hyperlink nova_hyperlinkNormal" style="text-decoration: none;" href="#" onclick="return EPCM.doNavigate('ROLES://portal_content/br.com.petronect.Petronect/ConteudoPrivado/roles/z_Revisao_Menus_Fornecedores/z_rl_Forn_APetronect/z_ws_Forn_SistemaPetronect/APetronect/YPSF001')">
+							Minha Assinatura</a>
+						</span>
+									
+									
+			  			
+					<!--  FIM edição Upgrade 75 -->
+						
+						 <span class="hyperlink_divider" style="display: inline !important; float:none !important;"><img src="/com.sap.portal.navigation.afp.masthead/images/blank.gif" alt="" id ="search_blank_gif"/>
+						 </span>
+						 <span id="logoff" class="logoff_container" style="display: inline !important;">	
+					   
+					   </span>
+					</td>
+	 		    
+			
+			</tr>
+		</table>
+	 	
+ 	
+</div>
+<!-- END MASTHEAD -->
+</td></tr></table> 
+
+                        </div>
+                    </td>
+                </tr>
+                     
+                <tr id="topLevelNavigationTR">
+                    <td nowrap="nowrap">
+                        <div style="width:100%;">
+                             <table style="width:100%" cellspacing="0" cellpadding="0" class="fullScreenHiddenContainer prtlPageConL"><tr><td>
+<!-- EPCF: Component com.sap.portal.navigation.afp.tln.TopLevel, codeioldgbfbfjeladpgchhhabplfale -->
+<!-- TLN First Level -->
+<table id="TlnMainTable" class="Tln" width="100%" cellpadding="0" cellspacing="0" border="0">
+	<tr class="FirstLevel" id="firstLevelTR"></tr>
+</table>
+
+<!-- TLN Second Level -->
+<table id="TlnSecondLevelTable" class="Tln" width="100%" cellpadding="0" cellspacing="0" border="0">
+	<tr id="SecondLevelTR" class="SecondLevel">
+		<td id="BgSubTabArea1" class="BgSubTabArea" valign="top" nowrap="nowrap">
+			<div id="secondLevelScrollable">
+				<div id="secondLevelTabs" reuseTabs="0" style="width:10000px; white-space:nowrap"></div>
+			</div>
+		</td>
+		<td id="BgSubTabArea2" style="overflow:hidden;" class="BgSubTabArea" valign="top" nowrap="nowrap">
+			<div id="secondLevelOverflowButton_div" class="SubtabScroller SubtabScrollerStandard" style="display:none;" onmouseover="this.className=&#34;SubtabScroller SubtabScrollerHover&#34;;" onmouseout="this.className=&#34;SubtabScroller SubtabScrollerStandard&#34;;" onmousedown="this.className=&#34;SubtabScroller SubtabScrollerDown&#34;;" onclick="TLN_AFP_IVIEW.draw2ndLevelOverflowMenu(this);">
+			<div class="Separator"></div>
+				<div class="overflowImageWrapper">
+					<div class="VerticalAlignCenter">
+						<div class="OverflowImage"></div>
+					</div>
+				</div>
+				<div class="Separator"></div>
+			</div>
+			<!-- <div style="width: 1px; height: 1px;"></div> -->
+		</td>
+	</tr>
+</table>
+
+</td></tr></table> 
+                        </div>
+                    </td>
+                </tr>
+                
+                
+                
+                
+                      
+                <tr id="layoutCenterTR">
+                    <td id="tdLayoutCenter" class="layoutCenter" nowrap="nowrap" height="100%">
+                        <table cellpadding="0" cellspacing="0" border="0" style="width:100%;height:100%">
+                            <tr>
+
+                                <td id="leftNavPanelTD" height="100%" class="leftNavPanel" nowrap="nowrap" valign="top"> 
+                                    
+
+                        
+                                     
+                                
+                                    <div id="divLeftNavPanelOpen" style="height:100%;display:none" class="divLeftNavPanelOpen" >
+                        
+                                        <table id="tblLeftNavPanelOpen" class="leftNavPanelOpen" height="100%" cellpadding="0" cellspacing="0" border="0">
+                                        <tr>
+                                            <td class="leftNavPanel00" nowrap="nowrap"><div><img src="/com.sap.portal.navigation.afp.layout/images/blank.gif" width="1px" height="1px" alt="" /></div></td>
+                                            <td class="leftNavPanel10" width="auto" nowrap="nowrap"><div id="imagePlaceHolder"><img src="/com.sap.portal.navigation.afp.layout/images/blank.gif" width="1px" height="1px" alt="" /></div></td>
+                                            <td id="collapseLeftPanel" class="leftNavPanel20" nowrap="nowrap" onclick="LeftNavPanel.collapsePanel()"><div id="imagePlaceHolder"><img src="/com.sap.portal.navigation.afp.layout/images/blank.gif" width="1px" height="1px" alt="" /></div></td>
+                                        </tr>
+                                        <tr>
+                                            <td class="leftNavPanel01" height="100%" nowrap="nowrap"><div id="imagePlaceHolder"><img src="/com.sap.portal.navigation.afp.layout/images/blank.gif" width="1px" height="1px" alt="" /></div></td>
+                                            <td class="leftNavPanel11" width="auto" valign="top"><div id="imagePlaceHolder"><img src="/com.sap.portal.navigation.afp.layout/images/blank.gif" width="1px" height="1px" alt="" /></div></td>
+                                             
+										    	<td class="leftNavPanel21" height="100%" nowrap="nowrap" style="text-align:-moz-right;" class="leftNavPanelResize">
+                                                	<div  onmousedown="LeftNavPanel.startLeftNavPanelResize(); if(JSUtils.BrowserDetection.applewebkit)return false;" class="leftNavPanelResize"></div>
+                                            	</td>
+												
+                                        </tr>
+                                        <tr>
+                                            <td class="leftNavPanel02" nowrap="nowrap"><div id="imagePlaceHolder"><img src="/com.sap.portal.navigation.afp.layout/images/blank.gif" width="1px" height="1px" alt="" /></div></td>
+                                            <td class="leftNavPanel12" width="auto" nowrap="nowrap"><div id="imagePlaceHolder"><img src="/com.sap.portal.navigation.afp.layout/images/blank.gif" width="1px" height="1px" alt="" /></div></td>
+                                            <td class="leftNavPanel22" nowrap="nowrap">
+                                                <div onmousedown="LeftNavPanel.startLeftNavPanelResize(); if(JSUtils.BrowserDetection.applewebkit)return false;" class="leftNavPanelResize"></div>
+                                            </td>
+                                        </tr>
+                                        </table>
+                                    </div>
+                        
+                                    <div id="divLeftNavPanelCollapsed" style="display:none">
+                                        <table cellpadding="0" cellspacing="0" border="0">
+                                        <tr>
+                                            <td id="expandLeftPanel" class="leftNavPanelCollapsed" nowrap="nowrap" onclick="LeftNavPanel.openPanel()">
+                                                <div id="imagePlaceHolder"><img src="/com.sap.portal.navigation.afp.layout/images/blank.gif" width="1px" height="1px" alt="" /></div>
+                                            </td>
+                                        </tr>
+                                        </table>
+                                    </div>
+
+
+
+
+                                </td>
+								
+                                <td width="100%" nowrap="nowrap" valign="top" id="contentAreaTD"> 
+                                    
+                                    <table height="100%" width="100%" cellspacing="0" cellpadding="0">
+                                        <tr id="pageToolbarTR">
+                                            <td width="100%">
+                                                <div id="divPageToolbar" >
+                                                    <div ></div>
+                                                </div>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td height="100%" valign="top">
+                                                <div id="divContentArea"></div>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                                
+                                <td id="help_panel_td" style="width:0px; display:none" height="100%" nowrap="nowrap" valign="top" >
+                                    <div id="help_panel_div" style="width:100%; height:100%">
+                                        <form style="display:none" method="post" action="" target="helpPanelContent" id="helpComponentFrameForm">                                   
+                                            <input type="hidden" id="applicationHelpIDs" name="applicationHelpIDs" />
+                                            <input type="hidden" id="currNavTarget" name="currNavTarget" />
+                                            <input type="hidden" id="ClientWindowID" name="ClientWindowID" />
+                                        </form>
+                                        <form style="display:none" method="post" action="" target="helpPanelContent" id="sidePanelFrameForm">                                   
+                                        </form>
+                                        <table style="width:100%;height:100%;" >
+                                            <tr>
+                                                <td>
+                                                    <div id="divSidePanelHeader" style="display:none;width:100%;"></div>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td style="height:100%" >
+                                                    <iframe frameborder="0" name="helpPanelContent" id="helpPanelContent" src="/com.sap.portal.pagebuilder/html/EmptyDocument.html" style="width:100%;height:100%;" title="Help Content Area"></iframe>
+                                                </td>   
+                                            </tr>
+                                        </table>
+                                    </div>
+                                </td>
+                                
+                                <td id="content_area_closure" style="width:0px;height:0%" nowrap="nowrap" valign="top" tabIndex="0"></td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+        </td>
+        
+        <td class="Frame21" nowrap="nowrap" id="frame21TD"><div class="placeHolder"></div></td>
+    </tr>
+    <tr>
+        <td class="Frame02" nowrap="nowrap"><div class="placeHolder"></div></td>
+        <td class="Frame12" nowrap="nowrap"><div class="placeHolder"></div></td>
+        <td class="Frame22" nowrap="nowrap"><div class="placeHolder"></div></td>
+    </tr>
+</table>
+
+  
+<div id="divLeftNavPanelContent" class="leftNavPanelContent" style="display:none">
+    <table style="width:100%" cellspacing="0" cellpadding="0" class="prtlPageConL"><tr><td>
+<!-- EPCF: Component com.sap.portal.navigation.afp.dtn.DetailedTree, pfecdpenfopoflmbmchcojhhabplfalf -->
+<div class="Dtn">
+	<div id="dtnTreeContainer" style="height:100%;width:100%;position:relative;overflow:hidden;"></div>
+	<div id="bestFitContainer_div" style="display:none;"></div>
+	<div id="collectionsContainer_div" style="display:none;"></div>
+</div>
+</td></tr><tr><td>
+<!-- EPCF: Component com.sap.portal.navigation.afp.dynamicnavigation.DynamicNavigation, cagnaiafelmcjbmdegekddhhabplfalf -->
+<div id="dynamicnavigation" class="dynamicnavigation">
+</div>
+</td></tr></table>
+</div>
+  
+
+<div id="divLeftNavPanelScrollbar" class="leftNavPanelScrollbar" style="display:none">
+    <table class="NovaScrollBar" height="100%" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+            <td id="tdLeftPanelUpArrow" class="UpArrowStandard"><div id="imagePlaceHolder"><img src="/com.sap.portal.navigation.afp.layout/images/blank.gif" width="1px" height="1px" alt="" /></div></td>
+        </tr>
+        <tr>
+            <td height="100%" class="SliderContainer">
+                <div id="divLeftPanelSlider" class="SliderStandard">
+                     <div class="CenterGrip">
+                        <div class="SliderGrip"></div>
+                     </div>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td id="tdLeftPanelDownArrow" class="DownArrowStandard"><div id="imagePlaceHolder"><img src="/com.sap.portal.navigation.afp.layout/images/blank.gif" width="1px" height="1px" alt="" /></div></td>
+        </tr>
+    </table>
+</div>
+
+         
+    <div id = "divLoadingBackground" class= "loadingBackground" >
+        <div class="CenterHVDiv" >
+            <div id = "divLoadingScreen" class="loadingScreen"  >
+                        
+                    <div id = "divScreenLoadingAnimation" class ="screenLoadingAnimation" ></div>
+                 
+                
+                    <div id ="copyrightText" class="copyrightText">Copyright   2010 SAP AG. All Rights Reserved</div>
+                 
+            </div>
+        </div>
+    </div>  
+
+                    
+
+<div style="width:100%;display:none;" id="technicalHiddenContainer">
+        <table style="width:100%" cellspacing="0" cellpadding="0" class="prtlPageConR"><tr><td>
+<!-- EPCF: Component com.sap.portal.navigation.afp.resources.AFPResources, dkccnbigganadhmicpifophhabplfale -->
+</td></tr><tr><td>
+<!-- EPCF: Component com.sap.portal.navigation.afp.widgets.AFPWidgetsModule, afcnafmjjfeobljblpeochhhabplfale -->
+</td></tr><tr><td>
+<!-- EPCF: Component com.sap.portal.navigation.masthead.BrowserDocumentModeiView, bblhidicflngcmhpbejaofhhabplfale -->
+</td></tr></table> 
+</div>
+
+<script type="text/javascript">var emptyDocumentUrl = "/com.sap.portal.pagebuilder/html/EmptyDocument.html";if(self.EPCM){EPCM.relaxDocumentDomain();}else{var d=document.domain; if (d.search(/^\d+\.\d+\.\d+\.\d+$/)>=0) {} else { var l=d.indexOf("."); if (l>=0) {d=d.substr(l+1)} } if (document.domain != d) {document.domain = d;}}
+pageSupport.pageHelperUrl = '/irj/servlet/prt/portal/prtroot/com.sap.portal.pagebuilder.PageHelper';
+pageSupport.proxyModesUrl = '/irj/servlet/prt/portal/prtroot/com.sap.portal.pagebuilder.IviewModeProxy';
+pageSupport.addPageId('pcd:portal_content/br.com.petronect.Petronect/Petronect_Display/Upgrade_7_5/yp_afpStandardsModeDesktop/frameworkPages/YP_AFPStandardsModepage','0','local');
+pageSupport._addIvuPageId("pcd\x3aportal_content\x2fbr.com.petronect.Petronect\x2fPetronect_Display\x2fUpgrade_7_5\x2fyp_afpStandardsModeDesktop\x2fframeworkPages\x2fYP_AFPStandardsModepage\x2fyp_masthead_petronect","page0ivu0");
+pageSupport._addIViewBank("page0ivu0",new iviewBank("","",pageSupport.EMBEDDED,1,"0","","GET","false"));
+pageSupport._addIvuPageId("pcd\x3aportal_content\x2fbr.com.petronect.Petronect\x2fPetronect_Display\x2fUpgrade_7_5\x2fyp_afpStandardsModeDesktop\x2fframeworkPages\x2fYP_AFPStandardsModepage\x2fcom.sap.portal.AFPTopLevelNavigation","page0ivu1");
+pageSupport._addIViewBank("page0ivu1",new iviewBank("","",pageSupport.EMBEDDED,1,"0","","GET","false"));
+pageSupport._addIvuPageId("pcd\x3aportal_content\x2fbr.com.petronect.Petronect\x2fPetronect_Display\x2fUpgrade_7_5\x2fyp_afpStandardsModeDesktop\x2fframeworkPages\x2fYP_AFPStandardsModepage\x2fcom.sap.portal.AFPDetailedNavigation","page0ivu2");
+pageSupport._addIViewBank("page0ivu2",new iviewBank("","",pageSupport.EMBEDDED,1,"0","","GET","false"));
+pageSupport._addIvuPageId("pcd\x3aportal_content\x2fbr.com.petronect.Petronect\x2fPetronect_Display\x2fUpgrade_7_5\x2fyp_afpStandardsModeDesktop\x2fframeworkPages\x2fYP_AFPStandardsModepage\x2fcom.sap.portal.AFPDynamicIviews","page0ivu3");
+pageSupport._addIViewBank("page0ivu3",new iviewBank("","",pageSupport.EMBEDDED,1,"0","","GET","false"));
+pageSupport._addIvuPageId("pcd\x3aportal_content\x2fbr.com.petronect.Petronect\x2fPetronect_Display\x2fUpgrade_7_5\x2fyp_afpStandardsModeDesktop\x2fframeworkPages\x2fYP_AFPStandardsModepage\x2fcom.sap.portal.AFPResources","page0ivu4");
+pageSupport._addIViewBank("page0ivu4",new iviewBank("","",pageSupport.EMBEDDED,1,"0","","GET","false"));
+pageSupport._addIvuPageId("pcd\x3aportal_content\x2fbr.com.petronect.Petronect\x2fPetronect_Display\x2fUpgrade_7_5\x2fyp_afpStandardsModeDesktop\x2fframeworkPages\x2fYP_AFPStandardsModepage\x2fcom.sap.portal.AFPWidgets","page0ivu5");
+pageSupport._addIViewBank("page0ivu5",new iviewBank("","",pageSupport.EMBEDDED,1,"0","","GET","false"));
+pageSupport._addIvuPageId("pcd\x3aportal_content\x2fbr.com.petronect.Petronect\x2fPetronect_Display\x2fUpgrade_7_5\x2fyp_afpStandardsModeDesktop\x2fframeworkPages\x2fYP_AFPStandardsModepage\x2fcom.sap.portal.BrowserDocumentMode","page0ivu6");
+pageSupport._addIViewBank("page0ivu6",new iviewBank("","",pageSupport.EMBEDDED,1,"0","","GET","false"));
+if(!self.containers){containers=[]}var topFixedContainer = {numOfIViews:1};containers['topFixedContainer'] = topFixedContainer;if(!self.containers){containers=[]}var topLevelNavigationContainer = {numOfIViews:1};containers['topLevelNavigationContainer'] = topLevelNavigationContainer;if(!self.containers){containers=[]}var pageToolbarContainer = {numOfIViews:0};containers['pageToolbarContainer'] = pageToolbarContainer;if(!self.containers){containers=[]}var leftNavPanelContainer = {numOfIViews:2};containers['leftNavPanelContainer'] = leftNavPanelContainer;if(!self.containers){containers=[]}var technicalHiddenContainer = {numOfIViews:3};containers['technicalHiddenContainer'] = technicalHiddenContainer;</script><script type="text/javascript"src="/com.sap.portal.navigation.afp.resources/scripts/optimize/core_navigation.js?rid=e67b48e5cd37acdd65b00b611361c066"></script><script type="text/javascript"src="/com.sap.portal.navigation.afp.widgets/scripts/optimize/afp_ui.js?rid=82549254048183e57487ef61136138ba"></script><script type="text/javascript"src="/com.sap.portal.navigation.afp.layout/scripts/AFPLayoutFramework.js?rid=2a9b431fb43d0d787c21a161136192a7"></script><script type="text/javascript"src="/br.com.sap.portal.navigation.afp.mastheadPne75/scripts/afpmasthead.js?rid=857fe96e302e65932ed1117606abe592"></script><script type="text/javascript"src="/com.sap.portal.navigation.afp.tln/scripts/optimize/afpui_tln.js?rid=bc00a98920545e3fc099c16113615809"></script><script type="text/javascript"src="/com.sap.portal.navigation.afp.dtn/scripts/dtn_functions.js?rid=96cfb7835dee4163d48ded6113613eb3"></script><script type="text/javascript"src="/com.sap.portal.navigation.afp.dynamicnavigation/scripts/dynamicnavigation.js?rid=7628810ec4a65c2b19df016113618d34"></script><script type="text/javascript">var mm_servletLocation = document.location.protocol + '//' + document.location.host + "/AFPServlet/NavigationServlet";var userAccessibilityModeState = false;var afpVerifierKey = 'a0706d37f0d9918ace6b4e435596033e';var jsonCacheTimeStampsRep = '{"quickLaunchTS":"0","sap-ep-pp":"","sap-ep-ur":"bdf05d2cb72aba825d02e344712f98bf","sap-ep-inp":"","sap-ep-nh":"1606500601492","sap-ep-ul":"pt","searchProvidersTS":"0"}';var cacheTimeStampsRep = jsonCacheTimeStampsRep.parseJSON();var globalQueryString = '';var globalPostBody = null;var initConfiguration = function(){LSAPI.AFPPlugin.configuration.init('{"NavPrefix":{"mode6":"/irj/servlet/prt/portal/prteventname/Navigate/prtroot/pcd\u00213aportal_content\u00212fevery_user\u00212fgeneral\u00212fdefaultAjaxframeworkContent\u00212fcom.sap.portal.contentarea","mode5":null,"mode3":"/irj/portal\\x2fanonymous","mode11":"/irj/portal\\x2fanonymous","mode10":"/irj/portal\\x2fanonymous","mode2":"/irj/portal\\x2fanonymous","mode1":"/irj/servlet/prt/portal/prtroot/pcd\u00213aportal_content\u00212fevery_user\u00212fgeneral\u00212fdefaultAjaxframeworkContent\u00212fcom.sap.portal.standalonecontentarea","mode0":"/irj/servlet/prt/portal/prteventname/Navigate/prtroot/pcd\u00213aportal_content\u00212fevery_user\u00212fgeneral\u00212fdefaultAjaxframeworkContent\u00212fcom.sap.portal.contentarea"},"User":{"LogonUid":"LUCASCRUZ1","FirstName":"Lucas","DisplayName":"Cruz,\\x20Lucas","IsAnonymous":false,"LastName":"Cruz","Salutation":"Mr.","Name":"LUCASCRUZ1"},"configurationAttributes":{"titleSuffix":"SAP NetWeaver Portal","titleMode":"Launch","useUrlSchema":"false","screenCaptureToolUrl":null,"screenCaptureMode":null,"navLevels":""}}','{"LShapeLayout":{"com.sap.portal.navigation.afp.leftPanelInitialState":"Automatic","com.sap.portal.navigation.afp.jsonFrameworkComponentNames":["default","pageBuilder","BrowserDocumentModeiView","AFPResources","AFPWidgetsModule","TopLevel","DetailedTree","DynamicNavigation","AFPMasthead","AFPFrameworkLayout"]},"DynamicNavigation":{"com.sap.portal.navigation.afp.defaultDisplayMode":"Floating"},"AFPResources":{"com.sap.portal.navigation.ShowOpenInNewWindow":"Abrir em janela nova","com.sap.portal.navigation.showSolutionManager":"Notificar um problema","com.sap.portal.navigation.DelayForSuggestionResults":"350","com.sap.portal.navigation.ShowRefresh":"Atualizar","com.sap.portal.navigation.ShowPersonalize":"Personalizar","com.sap.portal.navigation.afp.enableStatefulNavigation":"true","com.sap.portal.navigation.showFavorites":"Inserir em favoritos de browser"},"DetailedTree":{"com.sap.portal.navigation.detailedtree.clicklaunch":"true","com.sap.portal.navigation.afp.collectionMaxLinks":"5","com.sap.portal.navigation.afp.showOnlyCollections":"false","com.sap.portal.navigation.afp.personalizePortalDTN":"false","com.sap.portal.navigation.afp.startLevel":"2","com.sap.portal.navigation.afp.notifyOnFinishedLoading":"true","com.sap.portal.navigation.afp.visualizationMode":"Detailed Navigation iView","com.sap.portal.navigation.afp.overrideLinkWinFeatures":""},"AFPMasthead":{"ACC_HELP":"Ajuda\\x20–\\x20Exibir\\x20ajuda\\x20on\\x2dline\\x20para\\x20ficar\\x20a\\x20saber\\x20mais\\x20sobre\\x20o\\x20portal\\x20–\\x20Para\\x20abrir,\\x20selecione\\x20ENTRADA.\\x20Para\\x20navegar,\\x20utilize\\x20teclas\\x20de\\x20controle\\x20do\\x20cursor\\x20para\\x20cima\\x20e\\x20para\\x20baixo.\\x20Para\\x20selecionar,\\x20pressione\\x20a\\x20BARRA\\x20DE\\x20ESPA\\xc7O.","showLogo":"true","welcomeMessageTitle":"Bem\\x2dvindo\\x3a\\x20Lucas\\x20Cruz","ACC_BUTTON_YES":"Bot\\xe3o\\x20Sim\\x20\\x2d\\x20para\\x20ativar,\\x20pressionar\\x20ENTER","showView":"false","filterAppliedTooltip":"Foi\\x20aplicado\\x20um\\x20filtro\\x20nas\\x20entradas\\x20da\\x20navega\\xe7\\xe3o\\x20superior.\\x20Para\\x20exibir\\x20todas\\x20as\\x20entradas\\x20ou\\x20selecionar\\x20outro\\x20conjunto\\x20de\\x20entradas\\x20de\\x20navega\\xe7\\xe3o,\\x20selecionar\\x20no\\x20menu\\x20\\x27Exibir\\x27\\x20\\x3e\\x20\\x27Conjuntos\\x20de\\x20fichas\\x27.","showLogInLogOffValue":"true","welcomeMessageMarkUp":"\\x3cspan\\x20id\\x3d\\x22welcomeText\\x22\\x20class\\x3d\\x22welcome_text\\x22\\x3eBem\\x2dvindo\\x3a\\x20\\x3cspan\\x20class\\x3d\\x22welcome_name\\x22\\x3eLucas\\x3c\\x2fspan\\x3e\\x20\\x3cspan\\x20class\\x3d\\x22welcome_name\\x22\\x3eCruz\\x3c\\x2fspan\\x3e\\x3c\\x2fspan\\x3e","SAPStoreURL":"http\\x3a\\x2f\\x2fwww.sapstore.com\\x2fsap\\x2fcpa\\x2fredirect\\x3fpcntry\\x3d\\x26sap\\x2dlanguage\\x3dpt\\x26utm_source\\x3dSAP\\x2dPortal\\x26utm_medium\\x3dIn\\x2dProduct\\x2dPromotion","showCollaborateValue":"false","newWindowHyperlink":"Sess\\xe3o\\x20nova","logoffMessage":"Deseja\\x20sair\\x20com\\x20seguran\\xe7a\\x3f","filterAppliedTitle":"\\x28Filtro\\x20aplicado\\x29","enableQuickLaunch":"false","showHelpLink":"false","showNewWindowValue":"false","PORTAL_PLACE_BACK_ACC_TOOLTIP":"Voltar\\x20ao\\x20portal\\x20principal\\x20\\x2d\\x20link\\x20\\x2d\\x20navegar\\x20para\\x20o\\x20\\xfaltimo\\x20local\\x20no\\x20portal\\x20principal\\x20\\x2d\\x20para\\x20ativar,\\x20pressionar\\x20ENTER","customLogoURL":"","logoffNoButton":"N\\xe3o","isPortalPlaceMode":"false","collaborateLinkTitle":"Collaboration","SAPStoreURLTitle":"SAP Store","helpLinkHyperLink":"Ajuda","collaborateComponent":"com.sap.netweaver.coll.shared.ui.CollaborationLaunchPad","isShowMenuBarContainer":"false","LOGIN_URL":"https://www.petronect.com.br:443/irj/portal/anonymous/login/login","LOG_ON_TOOLTIP":"Iniciar\\x20sess\\xe3o\\x20atual\\x20do\\x20portal\\x20e\\x20efetuar\\x20logon","MI_HELP":"Ajuda","com.sap.portal.navigation.afp.notifyOnFinishedLoading":"true","menusConfig":"\u007bshowHistory:null,showFavorites:false,showView:false,showHelp:false,screenCaptureMode:\u0027null\u0027\u007d","logoffHyperlink":"Sair\\x20com\\x20seguran\\xe7a\\x20","logoffTitle":"Sair\\x20com\\x20seguran\\xe7a","ACC_BUTTON_NO":"Bot\\xe3o\\x20N\\xe3o\\x20\\x2d\\x20para\\x20ativar,\\x20pressionar\\x20ENTER","HELP_URL":null,"showSAPStoreLink":"false","isShowLoggedAsMessage":"true","anonymous":"false","logOnTextStr":"Efetuar\\x20logon","logoffYesButton":"Sim","backToMainPortalLink":"Voltar\\x20ao\\x20portal\\x20principal","isByD":"false","clpComponentURI":"/irj/servlet/prt/portal/prtroot/com.sap.netweaver.coll.shared.ui.CollaborationLaunchPad"},"AFPWidgets":{"com.sap.portal.navigation.afp.showPersonalize":"true","com.sap.portal.navigation.afp.menu.item.Tabsets":"Conjuntos\\x20de\\x20fichas","com.sap.portal.navigation.afp.menu.item.AddFavorites":"Inserir\\x20nos\\x20favoritos","com.sap.portal.navigation.afp.menu.item.accessibility.History":"Hist\\xf3rico\\x20\\x2d\\x20exibir\\x20hist\\xf3rico\\x20de\\x20navega\\xe7\\xe3o\\x20\\x2d\\x20para\\x20abrir\\x20o\\x20menu,\\x20pressionar\\x20ENTER.\\x20Para\\x20navegar\\x20entre\\x20entradas,\\x20utilizar\\x20teclas\\x20de\\x20controle\\x20do\\x20cursor\\x20para\\x20cima\\x20e\\x20para\\x20baixo.\\x20Selecionar\\x20entrada\\x3a\\x20pressionar\\x20barra\\x20de\\x20espa\\xe7o.","com.sap.portal.navigation.afp.showPersonalizePortal":"true","com.sap.portal.navigation.afp.menu.item.accessibility.HistoryBack":"Voltar\\x20\\x2d\\x20voltar\\x20\\xe0\\x20entrada\\x20anterior\\x20\\x2d\\x20para\\x20ativar,\\x20pressionar\\x20ENTER","com.sap.portal.navigation.afp.menu.item.accessibility.Favorites":"Favoritos\\x20\\x2d\\x20inserir\\x20vis\\xf5es\\x20de\\x20centro\\x20de\\x20trabalho\\x20como\\x20favoritos\\x20\\x2d\\x20para\\x20abrir\\x20o\\x20menu,\\x20pressionar\\x20ENTER.\\x20Para\\x20navegar\\x20entre\\x20entradas,\\x20utilizar\\x20as\\x20teclas\\x20de\\x20controle\\x20do\\x20cursor\\x20para\\x20cima\\x20e\\x20para\\x20baixo.\\x20Selecionar\\x20entrada\\x3a\\x20pressionar\\x20barra\\x20de\\x20espa\\xe7o.","com.sap.portal.navigation.afp.menu.item.TabsetsDescription":"Selecionar\\x20um\\x20set\\x20de\\x20pontos\\x20de\\x20acesso\\x20predefinidos","com.sap.portal.navigation.afp.menu.item.Help":"Ajuda","com.sap.portal.navigation.afp.menu.item.PersonalizePage":"Esta\\x20p\\xe1gina","com.sap.portal.navigation.afp.showFavorites":"true","HelpUrl":"http://help.sap.com/netweaver","com.sap.portal.navigation.afp.menu.item.accessibility.Personalize":"Personalizar\\x20\\x2d\\x20personalizar\\x20configura\\xe7\\xf5es\\x20de\\x20portal\\x20\\x2d\\x20para\\x20abrir,\\x20pressionar\\x20ENTER.\\x20Para\\x20navegar\\x20nas\\x20entradas,\\x20utilizar\\x20as\\x20teclas\\x20de\\x20controle\\x20do\\x20cursor\\x20PARA\\x20CIMA\\x20e\\x20PARA\\x20BAIXO.\\x20Para\\x20selecionar,\\x20pressionar\\x20a\\x20BARRA\\x20DE\\x20ESPA\\xc7O.","com.sap.portal.navigation.afp.showFullScreen":"true","com.sap.portal.navigation.afp.menu.item.accessibility.HistoryForward":"Avan\\xe7ar\\x20\\x2d\\x20Para\\x20elemento\\x20seguinte\\x20\\x2d\\x20Para\\x20ativar,\\x20pressionar\\x20ENTER","com.sap.portal.navigation.afp.showBackForward":"true","com.sap.portal.navigation.afp.showHelp":"true","com.sap.portal.navigation.afp.menu.item.PersonalizePortal":"Portal","com.sap.portal.navigation.afp.menu.item.accessibility.Help":"Ajuda\\x20\\x2d\\x20exibir\\x20a\\x20ajuda\\x20online\\x20para\\x20saber\\x20mais\\x20sobre\\x20o\\x20portal\\x20\\x2d\\x20pressionar\\x20ENTER\\x20para\\x20abrir\\x20o\\x20menu.\\x20Utilizar\\x20as\\x20teclas\\x20de\\x20controle\\x20do\\x20cursor\\x20para\\x20cima\\x20e\\x20para\\x20baixo\\x20para\\x20navegar\\x20entre\\x20entradas.\\x20Selecionar\\x20entrada\\x20com\\x20barra\\x20de\\x20espa\\xe7o.","com.sap.portal.navigation.afp.menu.item.HistoryForward":"Continuar","com.sap.portal.navigation.afp.showPersonalizePage":"true","com.sap.portal.navigation.afp.showHistory":"true","com.sap.portal.navigation.afp.menu.item.Favorites":"Favoritos","com.sap.portal.navigation.afp.menu.item.HelpCenter":"Abrir\\x20Help\\x20Center","com.sap.portal.navigation.afp.menu.item.inactive.HistoryForward":"Menu\\x20\\x27Avan\\xe7ar\\x27\\x20inativo","com.sap.portal.navigation.afp.menu.item.OnlineHelp":"Abrir\\x20ajuda\\x20online","com.sap.portal.navigation.afp.menu.item.inactive.HistoryBack":"Menu\\x20\\x27Voltar\\x27\\x20\\x2d\\x20menu\\x20inativo","com.sap.portal.navigation.afp.menu.item.Personalize":"Personalizar","com.sap.portal.navigation.afp.menu.item.FullScreenDescription":"Clicar\\x20aqui\\x20para\\x20mudar\\x20para\\x20o\\x20modo\\x20de\\x20tela\\x20inteira","com.sap.portal.navigation.afp.menu.item.History":"Hist\\xf3rico","com.sap.portal.navigation.afp.menu.item.CloseFullScreenDescription":"Encerrar\\x20tela\\x20inteira","com.sap.portal.navigation.afp.showHelpCenter":"false","com.sap.portal.navigation.afp.showOnlineHelpLink":"true","com.sap.portal.navigation.afp.menu.item.FullScreen":"Tela\\x20inteira","com.sap.portal.navigation.afp.menu.item.HistoryBack":"Voltar","com.sap.portal.navigation.afp.menu.item.View":"Vis\\xe3o","com.sap.portal.navigation.afp.menu.item.OrganizeFavorites":"Administrar\\x20favoritos","com.sap.portal.navigation.afp.showView":"true","com.sap.portal.navigation.afp.menu.item.accessibility.View":"Exibi\\xe7\\xe3o\\x20\\x2d\\x20op\\xe7\\xf5es\\x20de\\x20exibi\\xe7\\xe3o\\x20\\x2d\\x20para\\x20abrir\\x20o\\x20menu,\\x20pressionar\\x20ENTER.\\x20Para\\x20navegar\\x20nas\\x20entradas,\\x20utilizar\\x20as\\x20teclas\\x20de\\x20controle\\x20do\\x20cursor\\x20PARA\\x20CIMA\\x20e\\x20PARA\\x20BAIXO.","com.sap.portal.navigation.afp.menu.item.LearningCenterHelp":"Abrir\\x20centro\\x20de\\x20aprendizagem"},"AFPMasthead.AFPMastheadStrings":{"qlSearchButtonToolTip":"Procurar","accCollaborateLinkString":"Collaboration\\x20\\x2d\\x20link\\x20\\x2d\\x20iniciar\\x20o\\x20Collaboration\\x20Launch\\x20Pad\\x20\\x2d\\x20para\\x20ativar,\\x20pressionar\\x20ENTER","qlOptionsButtonToolTip":"Op\\xe7\\xf5es\\x20de\\x20pesquisa","mastheadToolTipString":"Cabe\\xe7alho\\x20do\\x20portal\\x20\\x2d\\x20Para\\x20ignorar,\\x20pressionar\\x20F6\\x20\\x2d\\x20Para\\x20inserir,\\x20pressionar\\x20TAB","qlInputBoxToolTip":"Procurar\\x20portal","qlOptionsButtonDisableToolTip":"Op\\xe7\\xf5es\\x20de\\x20pesquisa\\x20\\x28inativo\\x29","mastheadToolTip":"Cabe\\xe7alho\\x20do\\x20portal\\x20\\x2d\\x20Para\\x20ignorar,\\x20pressionar\\x20F6\\x20\\x2d\\x20Para\\x20inserir,\\x20pressionar\\x20TAB","accNewWindowLinkString":"Nova\\x20sess\\xe3o\\x20\\x2d\\x20abrir\\x20o\\x20portal\\x20em\\x20uma\\x20nova\\x20janela\\x20de\\x20browser\\x20com\\x20o\\x20usu\\xe1rio\\x20conectado\\x20atualmente\\x20\\x2d\\x20para\\x20ativar,\\x20pressionar\\x20ENTER","accLogOffLinkString":"Logoff\\x20\\x2d\\x20encerrar\\x20a\\x20sess\\xe3o\\x20de\\x20portal\\x20atual\\x20e\\x20efetuar\\x20o\\x20logoff\\x20\\x2d\\x20para\\x20ativar,\\x20pressionar\\x20ENTER","qlSearchButtonDisableToolTip":"Pesquisa\\x20\\x28inativa\\x29"},"TopLevel":{"com.sap.portal.navigation.afp.menu.item.ClearPersonalization":"Reinicializar\\x20ordem\\x20das\\x20fichas","com.sap.portal.navigation.afp.displayMode":"Default","com.sap.portal.navigation.afp.numberOfLevels":"2","com.sap.portal.navigation.afp.drillDownLevel":"1","com.sap.portal.navigation.afp.removableTabs":"false","com.sap.portal.navigation.afp.numberOfFixedTabs":"0","com.sap.portal.navigation.afp.dragableTabs":"true","com.sap.portal.navigation.afp.notifyOnFinishedLoading":"true"}}','{"DetailedTree":{"ACC_BF_G_ITEM":"Objeto\\x20de\\x20grupo\\x20de\\x20servi\\xe7os","ACC_UNSELECTED":"N\\xe3o\\x20selecionado","ACC_COLL_SER":"\\x7b0\\x7d\\x20de\\x20\\x7b1\\x7d\\x20links","LFT_PNL_CLPS":"Comprimir\\x20navega\\xe7\\xe3o\\x20detalhada","ACC_VIEWSWITCH":"Mudan\\xe7a\\x20de\\x20vis\\xe3o","ACC_VIEWS_G":"Para\\x20acessar\\x20um\\x20grupo\\x20de\\x20subvis\\xf5es,\\x20pressionar\\x20TAB","COMMON_TASKS":"Tarefas\\x20gerais","ACC_VIEWS_SER":"\\x7b0\\x7d\\x20de\\x20\\x7b1\\x7d\\x20vis\\xf5es","ACC_DTN_CLP_FOLDER":"Pasta\\x20comprimida","RelatedLinksCollection":"Links\\x20relacionados","ACC_NAVZOOM_NODE_OPEN":"Para\\x20abrir\\x20o\\x20n\\xf3\\x20de\\x20zoom\\x20de\\x20navega\\xe7\\xe3o,\\x20pressionar\\x20Ctrl\\x2bAlt\\x2bZ","ACC_BF_G_INST":"Para\\x20entrar\\x20servi\\xe7os\\x20relacionados,\\x20pressionar\\x20TAB","ACC_NAVZOOM_NODE":"N\\xf3\\x20de\\x20zoom\\x20de\\x20navega\\xe7\\xe3o","LFT_PNL_EXPND":"Expandir\\x20navega\\xe7\\xe3o\\x20detalhada","ACC_LINK":"Link","ACC_BF2L_ENTRY_EXP":"Grupo\\x20de\\x20servi\\xe7os\\x20relacionado\\x20a\\x20\\x7b0\\x7d\\x20objetos\\x20raiz\\x20\\x2d\\x20expandido\\x20\\x2d\\x20para\\x20ignorar,\\x20pressionar\\x20F6\\x20\\x2d\\x20para\\x20entrar,\\x20pressionar\\x20TAB\\x20\\x2d\\x20para\\x20comprimir,\\x20pressionar\\x20a\\x20tecla\\x20Menos\\x20no\\x20teclado\\x20num\\xe9rico","ACC_MORE":"Para\\x20outros\\x20links,\\x20pressionar\\x20a\\x20barra\\x20de\\x20espa\\xe7o","CommonTasksCollection":"Tarefas\\x20gerais","ACC_BF2L_ENTRY_CLP":"Coleta\\x20de\\x20links\\x20com\\x20\\x7b0\\x7d\\x20links\\x20\\x2d\\x20comprimido\\x20\\x2d\\x20para\\x20ignorar,\\x20pressionar\\x20F6\\x20\\x2d\\x20para\\x20expandir,\\x20pressionar\\x20a\\x20tecla\\x20Mais\\x20no\\x20teclado\\x20num\\xe9rico","COLL_MORE_ITEM":"Mais...","ACC_LEFT_PANEL_EXP":"Painel\\x20de\\x20navega\\xe7\\xe3o\\x20detalhada\\x20\\x2d\\x20expandido\\x20\\x2d\\x20para\\x20ignorar,\\x20pressionar\\x20F6\\x20\\x2d\\x20para\\x20efetuar\\x20entradas,\\x20pressionar\\x20TAB\\x20\\x2d\\x20para\\x20comprimir,\\x20pressionar\\x20a\\x20tecla\\x20\\x27Menos\\x27\\x20no\\x20bloco\\x20de\\x20n\\xbas","ACC_LINK_INVOKE":"Para\\x20ativar,\\x20pressionar\\x20a\\x20barra\\x20de\\x20espa\\xe7o","ACC_SUBVIEWS_GROUP":"Grupo\\x20de\\x20bot\\xf5es\\x20de\\x20r\\xe1dio\\x20com\\x20\\x7b0\\x7d\\x20objetos\\x20\\x2d\\x20para\\x20ignorar,\\x20pressionar\\x20F6\\x20\\x2d\\x20para\\x20efetuar\\x20entradas,\\x20pressionar\\x20TAB","ACC_LEFT_PANEL_CLP":"Painel\\x20de\\x20navega\\xe7\\xe3o\\x20detalhada\\x20\\x2d\\x20comprimido\\x20\\x2d\\x20para\\x20ignorar,\\x20pressionar\\x20F6\\x20\\x2d\\x20para\\x20expandir,\\x20pressionar\\x20a\\x20tecla\\x20\\x27Mais\\x27\\x20no\\x20bloco\\x20de\\x20n\\xbas","SERVICES":"Servi\\xe7os","ACC_SELECTED":"Marcado","see_also":"Links\\x20relacionados","ACC_DTN_CLOSE_FOLDER":"Para\\x20fechar\\x20a\\x20pasta,\\x20pressionar\\x20a\\x20barra\\x20de\\x20espa\\xe7o","ACC_CNP_EXP":"Painel\\x20de\\x20navega\\xe7\\xe3o\\x20contextual\\x20\\x2d\\x20expandido\\x20\\x2d\\x20para\\x20ignorar,\\x20pressionar\\x20F6\\x20\\x2d\\x20para\\x20efetuar\\x20entradas,\\x20pressionar\\x20TAB\\x20\\x2d\\x20para\\x20comprimir,\\x20pressionar\\x20a\\x20tecla\\x20\\x27Menos\\x27\\x20no\\x20bloco\\x20de\\x20n\\xbas","ACC_CNP_CLP":"Painel\\x20de\\x20navega\\xe7\\xe3o\\x20contextual\\x20\\x2d\\x20comprimido\\x20\\x2d\\x20para\\x20ignorar,\\x20pressionar\\x20F6\\x20\\x2d\\x20para\\x20expandir,\\x20pressionar\\x20a\\x20tecla\\x20\\x27Mais\\x27\\x20no\\x20bloco\\x20de\\x20n\\xbas","ACC_DTN_EXP_FOLDER":"Pasta\\x20expandida","NAV_ZOOM_TEXT":"Isto\\x20\\xe9\\x20um\\x20n\\xf3\\x20do\\x20zoom\\x20de\\x20navega\\xe7\\xe3o","ACC_COLL_LINKS_CLP":"Coleta\\x20de\\x20links\\x20com\\x20\\x7b0\\x7d\\x20links\\x20\\x2d\\x20comprimido\\x20\\x2d\\x20para\\x20ignorar,\\x20pressionar\\x20F6\\x20\\x2d\\x20para\\x20expandir,\\x20pressionar\\x20a\\x20tecla\\x20Mais\\x20no\\x20teclado\\x20num\\xe9rico","ACC_BF2L_SRVTTL_ITEM":"Objeto\\x20de\\x20servi\\xe7o\\x20relacionado\\x20a\\x20\\x7b0\\x7d\\x20links\\x20\\x2d\\x20para\\x20entrar,\\x20pressionar\\x20TAB","ACC_BF_ITEM":"Objeto","ACC_COLL_LINKS_EXP":"Coleta\\x20de\\x20links\\x20com\\x20\\x7b0\\x7d\\x20links\\x20\\x2d\\x20expandido\\x20\\x2d\\x20para\\x20ignorar,\\x20pressionar\\x20F6\\x20\\x2d\\x20para\\x20entrar,\\x20pressionar\\x20TAB\\x20\\x2d\\x20para\\x20comprimir,\\x20pressionar\\x20a\\x20tecla\\x20Menos\\x20no\\x20teclado\\x20num\\xe9rico","ACC_SUBVIEWS_SER":"\\x7b0\\x7d\\x20de\\x20\\x7b1\\x7d\\x20objetos","ACC_DTN_LEVEL":"N\\xedvel","ACC_DTN_OPEN_FOLDER":"Para\\x20abrir\\x20a\\x20pasta,\\x20pressionar\\x20a\\x20barra\\x20de\\x20espa\\xe7o","ACC_MOVE":"Para\\x20navegar\\x20atrav\\xe9s\\x20das\\x20entradas,\\x20selecionar\\x20as\\x20teclas\\x20de\\x20controle\\x20do\\x20cursor\\x20para\\x20cima\\x20e\\x20para\\x20baixo","ACC_DTN_LEAF_ITEM":"S\\xedmbolo\\x20de\\x20folha","ACC_SELECT":"Pressionar\\x20a\\x20barra\\x20de\\x20espa\\xe7o\\x20para\\x20selecionar","ACC_SUBVIEWSWITCH":"Bot\\xe3o\\x20de\\x20r\\xe1dio"},"DynamicNavigation":{"ACC_DYNAV_ITEM":"Link\\x20de\\x20navega\\xe7\\xe3o\\x20din\\xe2mico\\x20\\x2d\\x20link\\x20\\x7b0\\x7d\\x20de\\x20\\x7b1\\x7d\\x20\\x2d\\x20para\\x20ativar,\\x20pressionar\\x20a\\x20barra\\x20de\\x20espa\\xe7o","ACC_DYNAV_FRAME_CLOSE":"Fechar\\x20quadro\\x20de\\x20navega\\xe7\\xe3o\\x20din\\xe2mico\\x20\\x2d\\x20para\\x20ativar,\\x20pressionar\\x20a\\x20barra\\x20de\\x20espa\\xe7o","ACC_DYNAV_FRAME":"Quadro\\x20de\\x20navega\\xe7\\xe3o\\x20din\\xe2mico\\x20\\x2d\\x20para\\x20efetuar\\x20uma\\x20entrada,\\x20pressionar\\x20TAB\\x20\\x2d\\x20para\\x20fechar,\\x20pressionar\\x20ESC","ACC_DYNAV_LINKS":"iView\\x20de\\x20navega\\xe7\\xe3o\\x20din\\xe2mica\\x20com\\x20\\x7b0\\x7d\\x20links\\x20\\x2d\\x20para\\x20efetuar\\x20uma\\x20entrada,\\x20selecionar\\x20TAB\\x20\\x2d\\x20para\\x20navegar\\x20nas\\x20entradas,\\x20selecionar\\x20as\\x20teclas\\x20de\\x20controle\\x20do\\x20cursor\\x20para\\x20cima\\x20e\\x20para\\x20baixo"},"AFPWidgetsModule":{"ACC_FAV_ITEM_OF":"\\x7b0\\x7d\\x20\\x2d\\x20link\\x20de\\x20favoritos\\x20\\x2d\\x20\\x7b1\\x7d\\x20de\\x20\\x7b2\\x7d\\x20links","ACC_MENU_ITEM_OF_INACTIVE":"\\x7b0\\x7d\\x20\\x2d\\x20entrada\\x20de\\x20menu\\x20\\x2d\\x20\\x7b1\\x7d\\x20de\\x20\\x7b2\\x7d\\x20entradas\\x20\\x2d\\x20inativo","QL_NO_SUGGESTIONS":"Sem\\x20propostas","QL_ERROR_MSG_CAPTION_TEXT":"SAP\\x20NetWeaver\\x20Portal","MI_FAVORITES_LOADING":"Carregando...","ACC_MENU_ITEM_OF":"\\x7b0\\x7d\\x20\\x2d\\x20entrada\\x20de\\x20menu\\x20\\x2d\\x20\\x7b1\\x7d\\x20de\\x20\\x7b2\\x7d\\x20entradas\\x20\\x2d\\x20para\\x20selecionar\\x20pressionar\\x20ENTER","QL_ERROR_MSG_BUTTON_TEXT":"OK","MI_PERSONALIZE_GSETTINGS":"Configura\\xe7\\xf5es\\x20globais","QL_ERROR_MSG_CONTENT_TEXT":"O\\x20provedor\\x20de\\x20pesquisa\\x20selecionado\\x20n\\xe3o\\x20est\\xe1\\x20dispon\\xedvel\\x20neste\\x20momento.\\x20Tente\\x20de\\x20novo\\x20mais\\x20tarde\\x20ou\\x20contate\\x20o\\x20seu\\x20administrador\\x20do\\x20portal."},"AFPResources":{"FAVORITES_LABEL":"Inserir\\x20em\\x20favoritos\\x20de\\x20browser","SOLMAN_LABEL":"Notificar\\x20um\\x20problema","REFRESH_LABEL":"Atualizar","HELP_LABEL":"Ajuda","PORTAL_FAVORITES_LABEL":"Anexar\\x20aos\\x20favoritos\\x20do\\x20portal","OPTIONS_DESCRIPTION":"Exibe\\x20as\\x20op\\xe7\\xf5es\\x20para\\x20esta\\x20p\\xe1gina","PERSONALIZE_LABEL":"Personalizar","OPTIONS_LABEL":"Op\\xe7\\xf5es","PRINT_LABEL":"Imprimir","NEW_WINDOW_LABEL":"Abrir\\x20em\\x20janela\\x20nova","DETAILS_LABEL":"Detalhes"},"TopLevel":{"ACC_TLN_SELECTED":"Link\\x20selecionado","ACC_TLN_LEVEL":"N\\xedvel\\x20\\x7b0\\x7d","TLN_FRWRD_BTN":"Entrada\\x20seguinte","TLN_OVERFLOW_BTN":"Exibir\\x20todas\\x20as\\x20entradas","TLN_BCWRD_BTN":"Entrada\\x20anterior","ACC_TLN_UNSELECTED":"Link\\x20n\\xe3o\\x20selecionado","ACC_TLN":"Navega\\xe7\\xe3o\\x20superior\\x20\\x2d\\x20para\\x20ignorar,\\x20selecione\\x20F6\\x20\\x2d\\x20para\\x20efetuar\\x20uma\\x20entrada,\\x20pressione\\x20TAB\\x20\\x2d\\x20para\\x20mudar\\x20entre\\x20as\\x20entradas,\\x20utilize\\x20as\\x20teclas\\x20de\\x20controle\\x20do\\x20cursor\\x20direita\\x20e\\x20esquerda\\x20\\x2d\\x20para\\x20selecionar\\x20uma\\x20entrada\\x20ou\\x20um\\x20objeto,\\x20pressione\\x20a\\x20barra\\x20de\\x20espa\\xe7o"}}','','/irj/servlet/prt/portal/prtroot/com.sap.portal.navigation.masthead.BackTargetComponent',';DesktopPetronect;');LSAPI.AFPPlugin.configuration.setRTL(( 'false' == 'true') ? true : false);LSAPI.getTabsetPlugin()._private.init('[{"isDefault":true,"isEditable":false,"size":4,"name":"Todos","id":"ALL"}]','true','6');};if (LSAPI.AFPPlugin.configuration == null){initConfiguration();}else{JSUtils.waitForObject('LSAPI.AFPPlugin.configuration', initConfiguration);}LSAPI.AFPPlugin.urlhandler.init('');LSAPI.Collections._private.collectionsModel._private.addFixedJSONCollections([]);var usedConnectors= '';var supportPresonailzedData = true;frameworkSupport.init({portal_mode:'full_portal'});frameworkSupport.updateTitle('SAP NetWeaver Portal');var AFPGlobal = {};var afp_username = '53cf467c4dd9622e97c858ab85023b84'; var workProtectUnloadMsg = 'Existem dados não gravados';frameworkSupport.initChildHtmlPath({childHtmlPath:'/com.sap.portal.navigation.helperservice/html/child.html'});var disablePersonalize=true;frameworkSupport.initModalPopupURL({modalPopupURL:'/irj/servlet/prt/portal/prteventname/Navigate/prtroot/pcd!3aportal_content!2fevery_user!2fgeneral!2fdefaultAjaxframeworkContent!2fcom.sap.portal.contentarea'});staticHeaderlessConfig.init({disableStaticHeaderless:'true',staticHeaderlessURL:'?w2vF8SufzbOrbTLQTsfMsuJYTPsBdwErsf4v_SAPUSER.R3_DATASOURCE.LUCASCRUZ1'});if (LSAPI!='undefined'&& LSAPI!=null) { LSAPI.getVisualPlugin().init('SAP NetWeaver Portal'); }if(doResize!='undefined'&& doResize!=null){doResize.init('disabled');}if(windowDefaultSizeObject!='undefined'&& windowDefaultSizeObject!=null){windowDefaultSizeObject.init('width=890,height=88%');}if(LSAPI!='undefined'&& LSAPI!=null){LSAPI.getScreenCapturingPlugin().init('','null');}EPCM.getSAPTop().LSAPI.getSessionPlugin()._private.init('/irj/go/km/docs/documents/Petronect/Conteudo_Publico/redirectLogOff.html','false','/irj/servlet/prt/portal/prtroot/com.sap.portal.navigation.masthead.LogOutComponent');EPCM.getSAPTop().LSAPI.getSessionPlugin()._private.setLogoffDelayTimer('0');var newLeftPanelInitialState = "Automatic";var newFrameworkComponentNames = [ "anonymous", "pageBuilder", "BrowserDocumentModeiView", "AFPResources", "AFPWidgetsModule", "TopLevel", "DetailedTree", "DynamicNavigation", "AFPMasthead", "AFPFrameworkLayout"];</script></body></html>
